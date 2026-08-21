@@ -124,7 +124,7 @@
   },
   {
     "id": "nft-utils",
-    "latest": "1.1.0",
+    "latest": "1.1.1",
     "url": "https://github.com/nf-core/nft-utils",
     "github": "nf-core/nft-utils",
     "description": "nf-test utility functions for Nextflow pipelines.",
@@ -174,6 +174,10 @@
       {
         "version": "1.1.0",
         "url": "https://github.com/nf-core/nft-utils/releases/download/1.1.0/nft-utils-1.1.0.jar"
+      },
+      {
+        "version": "1.1.1",
+        "url": "https://github.com/nf-core/nft-utils/releases/download/1.1.1/nft-utils-1.1.1.jar"
       }
     ]
   },
